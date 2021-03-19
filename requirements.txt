@@ -4,7 +4,7 @@ certifi==2020.4.5.1
 chardet==3.0.4
 cycler==0.10.0
 decorator==4.4.2
-Django==2.2.13
+Django==2.2.18
 gast==0.2.2
 google-pasta==0.2.0
 grpcio==1.29.0
